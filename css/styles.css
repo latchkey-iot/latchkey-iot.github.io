@@ -10416,7 +10416,7 @@ header.masthead .masthead-heading {
   font-size: 2.00rem;
   font-weight: 300;
   line-height: 2.50rem;
-  margin-bottom: 4rem
+  margin-bottom: 3rem
   font-family: 'Roboto Thin', sans-serif;
   text-align: left;
 
@@ -10424,8 +10424,8 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
-    padding-bottom: 12.5rem;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
   }
   header.masthead .masthead-subheading {
     font-size: 1.25rem;
